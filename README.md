@@ -1,8 +1,6 @@
 # Otabek Hoshimxonov  
 ## Java Developer  
 
-![Profile Image](https://avatars.githubusercontent.com/u/103909360?v=4)  
-
 📍 Tashkent, Uzbekistan  
 📞 +998901013695  
 📧 otabekhoshimxon@gmail.com  
