@@ -35,4 +35,4 @@
 
 ---
 
-📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/otabek-hoshimxon/)  
+📌 **LinkedIn:** [Click here](https://www.linkedin.com/in/otabek-hoshimxon/)  
