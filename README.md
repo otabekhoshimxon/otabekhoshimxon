@@ -1,16 +1,40 @@
-## Hi there 👋
+# Otabek Hoshimxonov  
+## Java Developer  
 
-<!--
-**otabekhoshimxon/otabekhoshimxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Image](https://avatars.githubusercontent.com/u/103909360?v=4)  
 
-Here are some ideas to get you started:
+📍 Tashkent, Uzbekistan  
+📞 +998901013695  
+📧 otabekhoshimxon@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Work Experience  
+### Coreteam LLC (July 2023 - Present)  
+- Developed backend systems using **Spring Boot** and **microservices architecture**.  
+- Integrated **Redis** for caching to enhance system responsiveness.  
+- Worked with **PostgreSQL**, optimized database performance with **Flyway**.  
+- Implemented authentication & authorization using **Spring Security & JWT**.  
+- Automated **CI/CD pipelines** with **GitHub Actions**.  
+- Collaborated with teams to deliver **high-quality solutions**.  
+
+---
+
+## 🎓 Education  
+### Java Development  
+**PDP Academy, Tashkent (Jan 2021 - Aug 2021)**  
+- Studied **Spring Boot, RESTful APIs, and Microservices Architecture**.  
+
+---
+
+## 🔧 Skills  
+- **Languages:** Java (Advanced), JavaScript (Basic/Intermediate)  
+- **Backend:** Spring Boot, Spring Security, Spring Data JPA, Spring AI  
+- **Databases:** PostgreSQL, Hibernate, Redis, Flyway  
+- **DevOps:** Docker, Nginx, Linux, GitHub Actions  
+- **Testing:** JUnit, Mockito  
+- **Messaging & Event Streaming:** Kafka, RabbitMQ, WebSockets  
+
+---
+
+📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/otabek-hoshimxon/)  
